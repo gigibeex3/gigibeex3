@@ -18,5 +18,5 @@ hobbies: ["Gaming", "Cinema", "Cooking", "Art", "Reading"]
 
 <div align="left">
 <h2>Some Tools I Have Used and Learned</h2>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
 </div>                                                         
