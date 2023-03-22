@@ -15,3 +15,8 @@ currently_developing: ["A productivity app that assists users in organizing task
 2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Cooking", "Art", "Reading"]
 ```
+
+<div align="left">
+<h2>Some Tools I Have Used and Learned</h2>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>                                                         
