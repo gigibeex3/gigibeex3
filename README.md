@@ -2,8 +2,7 @@
                     <h1>Hi there, I'm Grace 👋</h1>
 
                     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=80ECF7&width=435&lines=Full-Stack+Web+Developer;Always+ready+to+learn+something+new)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6BC4CE&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Always+ready+to+learn+something+new)](https://git.io/typing-svg)
 
 - 🔭 I am currently developing a productivity app that assists users in organizing tasks, enhancing focus, and managing time.
 - 🌱 I’m currently learning React and Python
