@@ -1,7 +1,8 @@
+<div style="text-align: center;">
 ### Hi there, I'm Grace 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFF6D5&width=435&lines=Full-Stack+Developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=80ECF7&width=435&lines=Full-Stack+Web+Developer;Always+ready+to+learn+something+new)](https://git.io/typing-svg)
+</div>
 <!--
 **gigibeex3/gigibeex3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
