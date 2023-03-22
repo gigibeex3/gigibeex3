@@ -7,8 +7,8 @@
 ```yaml
 name: Grace Kim
 located_in: Tacoma, Washington
-Pronouns: She/her
-Email: gjkim626@gmail.com
+pronouns: She/her
+email: gjkim626@gmail.com
   
 currently_learning: ["React and Python"]
 currently_developing: ["A productivity app that assists users in organizing tasks, enhancing focus, and managing time"]
@@ -17,7 +17,7 @@ hobbies: ["Gaming", "Cinema", "Cooking", "Art", "Reading"]
 ```
 
 <h2>Some Tools I Have Used and Learned</h2>
-<div align="justify">                                                       
+<div align="justify-between">                                                       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45" />
