@@ -26,3 +26,32 @@ hobbies: ["Gaming", "Cinema", "Cooking", "Art", "Reading"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="node" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45" />                                         
 </div>
+
+<h2>Projects</h2>
+<table bordercolor="#424242">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">To Do App</h3>
+        <br/>
+        <a target="_blank" href="https://todos-manage.netlify.app/">
+            <img src="https://i.ibb.co/vqG4Bym/todos.png" width="100%" alt="To Do App"/>
+        </a>
+        <br/>        
+  <a href="https://todos-manage.netlify.app/" target="_blank">
+  </a>
+<p><strong>React, Node, TailwindCSS, DaisyUI</strong> | Simple yet responsive to-do application that enables adding, crossing out, deleting, and editing items with ease.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Pomodoro</h3>
+        <br/>
+        <a target="_blank" href="https://pomodoroapptimer.netlify.app/">
+            <img src="https://i.ibb.co/6gndRf8/pomodoro.png" width="100%" alt="Pomodoro App"/>
+        </a>
+        <br/>
+  <a href="https://pomodoroapptimer.netlify.app/" target="_blank">
+  </a>
+  
+<p><strong>React, Node, TailwindCSS, DaisyUI</strong> | Pomodoro application created to help users manage their time effectively. The responsive app includes a timer that can be set to any desired length, as well as an alarm to alert the user when the time is up.</p>
+    </td>
+  </tr>
+  </table>
