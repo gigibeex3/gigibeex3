@@ -60,25 +60,13 @@ hobbies: ["Gaming", "Cinema", "Cooking", "Art", "Reading"]
     <td width="50%" valign="top">
       <h3 align="center">To Do App</h3>
         <br/>
-        <a target="_blank" href="https://todos-manage.netlify.app/">
-            <img src="https://i.ibb.co/vqG4Bym/todos.png" width="100%" alt="To Do App"/>
+        <a target="_blank" href="https://nasapotdapi.netlify.app/">
+            <img src="https://i.ibb.co/DV34yDB/nasapotd.png" width="100%" alt="NASA Astronomy Picture of the Day"/>
         </a>
         <br/>        
-  <a href="https://todos-manage.netlify.app/" target="_blank">
+  <a href="https://nasapotdapi.netlify.app/" target="_blank">
   </a>
-<p><strong>React, Node, TailwindCSS, DaisyUI</strong> | Simple yet responsive to-do application that enables adding, crossing out, deleting, and editing items with ease.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Pomodoro</h3>
-        <br/>
-        <a target="_blank" href="https://pomodoroapptimer.netlify.app/">
-            <img src="https://i.ibb.co/6gndRf8/pomodoro.png" width="100%" alt="Pomodoro App"/>
-        </a>
-        <br/>
-  <a href="https://pomodoroapptimer.netlify.app/" target="_blank">
-  </a>
-  
-<p><strong>React, Node, TailwindCSS, DaisyUI</strong> | Pomodoro application created to help users manage their time effectively. The responsive app includes a timer that can be set to any desired length, as well as an alarm to alert the user when the time is up.</p>
+<p><strong>HTML5, CSS3, Javascript</strong> | Fully functional app that utilizes NASA api.</p>
     </td>
   </tr>
   </table>
