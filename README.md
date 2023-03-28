@@ -54,11 +54,9 @@ hobbies: ["Gaming", "Cinema", "Cooking", "Art", "Reading"]
 <p><strong>React, Node, TailwindCSS, DaisyUI</strong> | Pomodoro application created to help users manage their time effectively. The responsive app includes a timer that can be set to any desired length, as well as an alarm to alert the user when the time is up.</p>
     </td>
   </tr>
-  </table>
-<table bordercolor="#424242">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">To Do App</h3>
+      <h3 align="center">NASA POTD</h3>
         <br/>
         <a target="_blank" href="https://nasapotdapi.netlify.app/">
             <img src="https://i.ibb.co/DV34yDB/nasapotd.png" width="100%" alt="NASA Astronomy Picture of the Day"/>
@@ -68,5 +66,8 @@ hobbies: ["Gaming", "Cinema", "Cooking", "Art", "Reading"]
   </a>
 <p><strong>HTML5, CSS3, Javascript</strong> | Fully functional app that utilizes NASA api.</p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">More Coming Soon</h3>
+    </td>
   </tr>
-  </table>
+</table>
