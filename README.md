@@ -68,6 +68,7 @@ hobbies: ["Gaming", "Cinema", "Cooking", "Art", "Reading"]
     </td>
     <td width="50%" valign="top">
       <h3 align="center">More Coming Soon</h3>
+        <img src="https://t3.ftcdn.net/jpg/03/58/85/20/360_F_358852052_DhzegjLDbOKS9azqMX291wBgmqfC2t86.jpg" width="100%" alt="Work in Progress"/>                
     </td>
   </tr>
 </table>
